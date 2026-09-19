@@ -60,18 +60,18 @@ and applied to certificates in general, not just one type, I:
 ## 📊 Evidence
 
 **✅ Measured (data I personally collected):**
-- [e.g., "Personally required 3 visits over 5 days to collect my own certificate"]
-- [e.g., "Observed 12 students asking about status (not submitting new forms)
-  during a 30-minute window]
-- [e.g., "Average wait time per visit: X minutes, based on timing Y visits"]
+- Personally required 3 visits over 5 days to collect my own certificate
+- Observed 12 students asking about status (not submitting new forms)
+  during a 30-minute window
+- Average wait time per visit: X minutes, based on timing Y visits
 
 **🟡 Estimates (told to me, not independently verified):**
-- [e.g., "Staff estimated ~10 certificate requests processed per week"]
-- [e.g., "Staff estimated average processing time of 2–3 working days per request"]
+- Staff estimated ~10 certificate requests processed per week
+- Staff estimated average processing time of 2–3 working days per request
 
 **🔶 Assumptions (used for calculations, not measured or confirmed):**
-- [e.g., "Assuming average of 3 visits per student based on small informal sample"]
-- [e.g., "Assuming average round-trip time to office is 10–15 minutes"]
+- Assuming average of 3 visits per student based on small informal sample
+- Assuming average round-trip time to office is 10–15 minutes
 
 ---
 
